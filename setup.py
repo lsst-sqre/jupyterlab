@@ -27,6 +27,7 @@ data_files_spec = [
     ("share/jupyter/lab/static", f"{NAME}/static", "**"),
     ("share/jupyter/lab/schemas", f"{NAME}/schemas", "**"),
     ("share/jupyter/lab/themes", f"{NAME}/themes", "**"),
+    ("share/jupyter/lab/staging/local", f"{NAME}/staging/local", "**"),
     (
         "etc/jupyter/jupyter_server_config.d",
         "jupyter-config/jupyter_server_config.d",
