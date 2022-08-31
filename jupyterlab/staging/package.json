@@ -123,7 +123,8 @@
     "@lumino/widgets": "^1.33.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "yjs": "^13.5.17"
+    "yjs": "^13.5.17",
+    "xterm": "^4.19.0"
   },
   "dependencies": {
     "@jupyterlab/application": "~3.4.5",
